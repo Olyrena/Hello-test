@@ -1,0 +1,6 @@
+{
+    "forms": {
+        "errorRetries": 3,
+        "allowUserToAbandonForm": true
+    }
+}
